@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ankith J</h1>
+<h1 align="center">Hi , I'm Ankith J</h1>
 <h3 align="center">Aspiring Cloud Data Engineer | Computer Science Engineering Student</h3>
 
 <p align="center">
